@@ -1,3 +1,4 @@
+// based on John Burkadt's PRIME FUN code from PSVN's sample codes
 function total = prime_fun(n)
    total = 0;
    for i = 2 : n

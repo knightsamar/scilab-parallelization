@@ -1,3 +1,4 @@
+// based on John Burkadt's PRIME FUN code from PSVN's sample codes
 clear all
 clear 
 clc
